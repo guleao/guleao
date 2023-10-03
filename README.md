@@ -1,7 +1,5 @@
 ## 👹 Olá, meu nome é <strong>Augusto!</strong>
 
-> Olá, tudo bem? Meu nome é Augusto Leão e atualmente estou cursando o 4° periodo de engenharia de software. Meus interesses mudam um pouco conforme o tempo que vou aprendendo mais sobre todas as linguagens, mas estou gostando muito de programar em HTML, CSS, Javascript e Java, programando tanto no back-end quanto no front-end. Irei postar meus avanços em cada uma das atividades tanto dentro quanto fora da instituição de ensino.
-
 ---
 
 ## 🚀 Minhas Skills
