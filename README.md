@@ -3,18 +3,14 @@ Olá 👋 Meu nome é Augusto Leão e sou um
 
 Desenvolvedor Front-end
 -----------------------
-<div>
-  <p>HTML</p>
-  <p>CSS</p>
-  <p>JS</p>
-  <p>Angular</p>
-</div>
+Olá meu nome é Augusto Leão, tenho 21 anos e sou um desenvolvedor front-end em aprendizado, aqui no meu github irei tentar postar o máximo de coisas que eu fizer na área
 
 * 🌍  Moro em Foz do Iguaçu, Paraná, Brasil
 * 🧠  Front-end developer em aprendizado!
 
 ### Cursos finalizados:
-- Javascript Curso em Vídeo [40 Horas]
+- Javascript Curso em Vídeo [40 Horas] (Certificado)
+- Curso de Bootstrap 5 Cursa [10 Horas] (Certificado)
 
 ### Skills
 
