@@ -2,7 +2,7 @@ Olá 👋 Meu nome é Augusto Leão e sou um
 =============================
 
 Desenvolvedor Front-end
------------------------
+
 Olá meu nome é Augusto Leão, tenho 21 anos e sou um desenvolvedor front-end em aprendizado, aqui no meu github irei tentar postar o máximo de coisas que eu fizer ao decorrer da minha caminhada, comecei a programar com 18 anos quando iniciei meus estudos em análise e desenvolvimento de sistemas na UniAmérica em Foz do Iguaçu/PR, já estudei linguagens de back-end como C e C# porém oque fez eu pegar gosto pela programação foi o front-end, sou apaixonado pela parte visual e espero um dia poder apresentar projetos incriveis aqui em meu github, as linguagens que mais gosto são HTML, CSS e JS, meu framework favorito é Angular porém estou iniciando estudos em outros frameworks também como o React.
 
 * 🌍  Moro em Foz do Iguaçu, Paraná, Brasil
