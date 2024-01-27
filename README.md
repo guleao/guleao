@@ -24,6 +24,6 @@ Olá meu nome é Augusto Leão, tenho 21 anos e sou um desenvolvedor front-end e
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>Status do github:</b>
 
 <a href="http://www.github.com/guleao"><img src="https://github-readme-stats.vercel.app/api?username=guleao&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="guleao's GitHub stats" /></a>
