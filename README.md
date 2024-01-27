@@ -3,8 +3,12 @@ Olá 👋 Meu nome é Augusto Leão e sou um
 
 Desenvolvedor Front-end
 -----------------------
-
-Comecei a programar a 2 anos quando iniciei minha faculdade de Engenharia de Software pela UniAmérica em Foz do Iguaçu/PR, atualmente estou cursando o 5° período e me encontrei na área front-end usando como principal framework o Angular, no meu github irei postar alguns projetos que estou realizando aos poucos em minha carreira como programador.
+<div>
+  <p>HTML</p>
+  <p>CSS</p>
+  <p>JS</p>
+  <p>Angular</p>
+</div>
 
 * 🌍  Moro em Foz do Iguaçu, Paraná, Brasil
 * 🧠  Front-end developer em aprendizado!
