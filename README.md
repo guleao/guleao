@@ -1,7 +1,7 @@
 Olá sou Augusto Leão e sou um Desenvolvedor!
 =============================
 * 🌍  Moro em Foz do Iguaçu, Paraná, Brasil
-* 🧠  Front-end developer em aprendizado!
+* 🧠  Desenvolvedor em aprendizado!
 
 ### Formação acadêmica:
 2022 - Íniciei a faculdade de engenharia de software pela UniAmérica - Descomplica!
