@@ -3,6 +3,10 @@ Olá sou Augusto Leão e sou um Desenvolvedor!
 * 🌍  Moro em Foz do Iguaçu, Paraná, Brasil
 * 🧠  Front-end developer em aprendizado!
 
+### Formação acadêmica:
+2022 - Íniciei a faculdade de engenharia de software pela UniAmérica - Descomplica!
+Previsão de finalização: Dez/2026
+
 ### Cursos finalizados:
 - Javascript Curso em Vídeo [40 Horas] (Certificado)
 - Curso de Bootstrap 5 Cursa [10 Horas] (Certificado)
