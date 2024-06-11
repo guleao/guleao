@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Main programming languages:</h3>
+<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
 
 ###
 
-<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
+<h3 align="left">Main programming languages:</h3>
 
 ###
 
