@@ -1,6 +1,5 @@
-<h2 align="center">Fullstack Developer</h2>
 
-<h3 align="center">Software engineer in training - 5th Period</h3>
+<h2 align="center">Fullstack Developer</h2>
 
 ###
 
