@@ -6,6 +6,10 @@
 
 ###
 
+<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -47,10 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
-
-###
-
-<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
 
 ###
 
