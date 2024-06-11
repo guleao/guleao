@@ -1,8 +1,8 @@
-<h3 align="center">Fullstack Developer</h3>
+<h2 align="center">Fullstack Developer</h2>
 
 ###
 
-<h6 align="left">Main programming languages:</h6>
+<h3 align="left">Main programming languages:</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">Programming languages ​​that I am studying and learning:</h5>
+<h3 align="left">Programming languages ​​that I am studying and learning:</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h5 align="left">Technologies I used during college</h5>
+<h3 align="left">Technologies I used during college</h3>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h6 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h6>
+<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
 
 ###
 
