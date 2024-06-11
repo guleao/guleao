@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guleao/guleao/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/guleao/guleao/snake.svg" alt="Snake animation" />
 
 ###
 
