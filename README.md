@@ -1,9 +1,4 @@
-
 <h2 align="center">Fullstack Developer</h2>
-
-###
-
-<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
 
 ###
 
@@ -52,6 +47,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
+
+###
+
+<h4 align="center">🎓📜<br>Javascript Video Course [40 Hours] (Certificate)<br>Bootstrap 5 Course Course [10 Hours] (Certificate)<br>GPT-4 Course [10 Hours] (Certificate)<br>Dev Journey Docker Course (Certificate)</h4>
 
 ###
 
