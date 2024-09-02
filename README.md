@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Main programming languages:</h3>
+<h3 align="left">Main programming languages/technologies:</h3>
 
 ###
 
